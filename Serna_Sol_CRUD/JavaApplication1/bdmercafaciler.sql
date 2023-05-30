@@ -1,0 +1,1 @@
+SELECT * FROM bdmercafaciler.precio_venta;
